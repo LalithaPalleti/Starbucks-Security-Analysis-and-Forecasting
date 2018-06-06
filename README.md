@@ -58,10 +58,4 @@ For example "2018-11-30" has 12 predicted crime values and it lies between 4 and
 ![alt text](https://github.com/LalithaPalleti/Starbucks-Security-Analysis-and-Forecasting/blob/master/ViolentTwo.PNG)<br/>
 
 Interesting Observations:
-- All the plots are staright lines because there is no crime data for Violent Crimes. I went to the datasource and checked that there are only three tier3 Incidents in the whole seattle area<br/>
-
-Forecasted values: <br/>
-Zero<br/>
-
-This may be due to lack of violent crimes data in the crimereports.com .If extracted from a different data source might bring more values 
-
+- All the plots are staright lines because there is no crime data of Violent Crimes around this store. I went to the datasource and checked that there are only three violent crime Incidents in the whole seattle area<br/>
