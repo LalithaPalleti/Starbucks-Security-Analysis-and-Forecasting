@@ -22,7 +22,7 @@ Forecasted crime rates in all 3 categories for a strabucks store in seattle.
 
 Following are the forecasted crime rate trends (monthly,yearly,weekly and daily trends) for that store:
 
-1. Quality of Life Crimes (‘Drugs’, ‘Liquor’,'Other','Traffic','Disorder','Quality of Life','Fire')
+### 1. Quality of Life Crimes (‘Drugs’, ‘Liquor’,'Other','Traffic','Disorder','Quality of Life','Fire')
 
 ![alt text](https://github.com/LalithaPalleti/Starbucks-Security-Analysis-and-Forecasting/blob/master/QualityOne.PNG)
 ![alt text](https://github.com/LalithaPalleti/Starbucks-Security-Analysis-and-Forecasting/blob/master/QualityTwo.PNG)<br/>
@@ -34,7 +34,8 @@ Interesting Observations:
 Forecasted values: <br/>
 ![alt text](https://github.com/LalithaPalleti/Starbucks-Security-Analysis-and-Forecasting/blob/master/Tier1_Forecasted_Values.PNG)
 
-2.Property Crimes ('Property Crime','Theft', 'Theft of Vehicle', 'Theft from Vehicle') 
+
+### 2. Property Crimes ('Property Crime','Theft', 'Theft of Vehicle', 'Theft from Vehicle') 
 
 ![alt text](https://github.com/LalithaPalleti/Starbucks-Security-Analysis-and-Forecasting/blob/master/PropertyOne.PNG)
 ![alt text](https://github.com/LalithaPalleti/Starbucks-Security-Analysis-and-Forecasting/blob/master/PropertyTwo.PNG)<br/>
@@ -50,7 +51,8 @@ Note : yhat is the predicted value , yhat_lower is the lower range , yhat_upper 
 
 For example "2018-11-30" has 12 predicted crime values and it lies between 4 and 40. where 12 is yhat value and 4 is yhat_lower value and 40 is yhat_upper value 
 
-3.Violent Crimes ('Assault’,'Assault with Deadly Weapon','Homicide','Kidnapping','Other Sexual Offense','Sexual Assault','Sexual Offense')
+
+### 3. Violent Crimes ('Assault’,'Assault with Deadly Weapon','Homicide','Kidnapping','Other Sexual Offense','Sexual Assault','Sexual Offense')
 
 ![alt text](https://github.com/LalithaPalleti/Starbucks-Security-Analysis-and-Forecasting/blob/master/ViolentOne.PNG)
 ![alt text](https://github.com/LalithaPalleti/Starbucks-Security-Analysis-and-Forecasting/blob/master/ViolentTwo.PNG)<br/>
