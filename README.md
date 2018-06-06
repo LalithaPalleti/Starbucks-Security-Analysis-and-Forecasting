@@ -26,12 +26,20 @@ Following are the forecasted crime rate trends (monthly,yearly,weekly and daily 
 
 ![alt text](https://github.com/LalithaPalleti/Starbucks-Security-Analysis-and-Forecasting/blob/master/QualityOne.PNG)
 ![alt text](https://github.com/LalithaPalleti/Starbucks-Security-Analysis-and-Forecasting/blob/master/QualityTwo.PNG)<br/>
+
+Interesting Observations on Tier1 Plots:
+- daily plot shows that most tier1 crimes for store 1 happen around early morning 4 and evening 8pm
+- weekly plot shows that most tier1 crimes for store 1 happen on Fridays<br/>
+
 ![alt text](https://github.com/LalithaPalleti/Starbucks-Security-Analysis-and-Forecasting/blob/master/Tier1_Forecasted_Values.PNG)
 
 2.Property Crimes
 
 ![alt text](https://github.com/LalithaPalleti/Starbucks-Security-Analysis-and-Forecasting/blob/master/PropertyOne.PNG)
 ![alt text](https://github.com/LalithaPalleti/Starbucks-Security-Analysis-and-Forecasting/blob/master/PropertyTwo.PNG)<br/>
+Interesting Observations on Tier2 Plots:
+- daily plot shows that most tier2 crimes for store 1 happen around 12am 
+- weekly plot shows that most tier2 crimes for store 1 happen on Thursday<br/>
 ![alt text](https://github.com/LalithaPalleti/Starbucks-Security-Analysis-and-Forecasting/blob/master/Tier2_Forecasted_Values.PNG)
 
 
@@ -39,5 +47,8 @@ Following are the forecasted crime rate trends (monthly,yearly,weekly and daily 
 
 ![alt text](https://github.com/LalithaPalleti/Starbucks-Security-Analysis-and-Forecasting/blob/master/ViolentOne.PNG)
 ![alt text](https://github.com/LalithaPalleti/Starbucks-Security-Analysis-and-Forecasting/blob/master/ViolentTwo.PNG)<br/>
-![alt text](https://github.com/LalithaPalleti/Starbucks-Security-Analysis-and-Forecasting/blob/master/Tier3_Forecasted_Values.PNG)
+Interesting Observations on Tier3 Plots:
+- All the plots are staright lines because there is no crime data for tier3 crimes. I went to the datasource and checked that there are only 3 tier3 Incidents in the whole seattle area<br/>
+
+This may be due to lack of violent crimes data in the crimereports.com .If extracted from a different data source might bring more values 
 
