@@ -52,8 +52,8 @@ Forecasted values: <br/>
 ![alt text](https://github.com/LalithaPalleti/Starbucks-Security-Analysis-and-Forecasting/blob/master/ViolentOne.PNG)
 ![alt text](https://github.com/LalithaPalleti/Starbucks-Security-Analysis-and-Forecasting/blob/master/ViolentTwo.PNG)<br/>
 
-Interesting Observations on Tier3 Plots:
-- All the plots are staright lines because there is no crime data for tier3 crimes. I went to the datasource and checked that there are only three tier3 Incidents in the whole seattle area<br/>
+Interesting Observations:
+- All the plots are staright lines because there is no crime data for Violent Crimes. I went to the datasource and checked that there are only three tier3 Incidents in the whole seattle area<br/>
 
 Forecasted values: <br/>
 Zero<br/>
