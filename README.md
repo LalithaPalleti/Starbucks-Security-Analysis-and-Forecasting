@@ -30,6 +30,7 @@ Following are the forecasted crime rate trends (monthly,yearly,weekly and daily 
 Interesting Observations:
 - daily plot shows that Quality of Life crimes for this store happen mostly around early morning 4 and  at evening 8pm
 - weekly plot shows that these crimes around this store happen mostly on Fridays<br/>
+
 Forecasted values: <br/>
 ![alt text](https://github.com/LalithaPalleti/Starbucks-Security-Analysis-and-Forecasting/blob/master/Tier1_Forecasted_Values.PNG)
 
@@ -37,9 +38,11 @@ Forecasted values: <br/>
 
 ![alt text](https://github.com/LalithaPalleti/Starbucks-Security-Analysis-and-Forecasting/blob/master/PropertyOne.PNG)
 ![alt text](https://github.com/LalithaPalleti/Starbucks-Security-Analysis-and-Forecasting/blob/master/PropertyTwo.PNG)<br/>
+
 Interesting Observations:
 - daily plot shows that Property Crimes for this store happen mostly around 12am 
 - weekly plot shows that Property Crimes for this store happen mostly on Thursdays<br/>
+
 Forecasted values: <br/>
 ![alt text](https://github.com/LalithaPalleti/Starbucks-Security-Analysis-and-Forecasting/blob/master/Tier2_Forecasted_Values.PNG)
 
@@ -48,9 +51,12 @@ Forecasted values: <br/>
 
 ![alt text](https://github.com/LalithaPalleti/Starbucks-Security-Analysis-and-Forecasting/blob/master/ViolentOne.PNG)
 ![alt text](https://github.com/LalithaPalleti/Starbucks-Security-Analysis-and-Forecasting/blob/master/ViolentTwo.PNG)<br/>
+
 Interesting Observations on Tier3 Plots:
 - All the plots are staright lines because there is no crime data for tier3 crimes. I went to the datasource and checked that there are only three tier3 Incidents in the whole seattle area<br/>
+
 Forecasted values: <br/>
 Zero<br/>
+
 This may be due to lack of violent crimes data in the crimereports.com .If extracted from a different data source might bring more values 
 
