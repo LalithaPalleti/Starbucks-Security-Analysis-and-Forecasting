@@ -46,7 +46,8 @@ Interesting Observations:
 Forecasted values: <br/>
 ![alt text](https://github.com/LalithaPalleti/Starbucks-Security-Analysis-and-Forecasting/blob/master/Tier2_Forecasted_Values.PNG)
 
-Note : yhat is the predicted value , yhat_lower is the lower range , yhat_upper is the upper range
+Note : yhat is the predicted value , yhat_lower is the lower range , yhat_upper is the upper range<br/>
+
 For example "2018-11-30" has 12 predicted crime values and it lies between 4 and 40. where 12 is yhat value and 4 is yhat_lower value and 40 is yhat_upper value 
 
 3.Violent Crimes ('Assault’,'Assault with Deadly Weapon','Homicide','Kidnapping','Other Sexual Offense','Sexual Assault','Sexual Offense')
