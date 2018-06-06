@@ -14,9 +14,9 @@ Then I forecasted for future 6 months of data using prophet's predict method.
 
 ## Results
 Crime severity is divided into 3 categories: 
-- Quality of Life(‘Drugs’, ‘Liquor’,'Other','Traffic','Disorder','Quality of Life','Fire'), 
-- Property('Property Crime','Theft', 'Theft of Vehicle', 'Theft from Vehicle'), 
-- Violent('Assault’,'Assault with Deadly Weapon','Homicide','Kidnapping','Other Sexual Offense','Sexual Assault','Sexual Offense')
+- Quality of Life (‘Drugs’, ‘Liquor’,'Other','Traffic','Disorder','Quality of Life','Fire'), 
+- Property ('Property Crime','Theft', 'Theft of Vehicle', 'Theft from Vehicle'), 
+- Violent ('Assault’,'Assault with Deadly Weapon','Homicide','Kidnapping','Other Sexual Offense','Sexual Assault','Sexual Offense')
 
 Forecasted crime rates in all 3 categories for a strabucks store in seattle.
 
