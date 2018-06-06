@@ -24,18 +24,17 @@ Following are the forecasted crime rate trends (monthly,yearly,weekly and daily 
 
 1. Quality of Life Crimes
 
-![alt text](https://github.com/LalithaPalleti/Crime-Investigation/blob/master/Quality%201.PNG)
-![alt text](https://github.com/LalithaPalleti/Crime-Investigation/blob/master/Quality%203.PNG)
-![alt text](https://github.com/LalithaPalleti/Crime-Investigation/blob/master/Quality2%20Png.PNG)
+![alt text](https://github.com/LalithaPalleti/Starbucks-Security-Analysis-and-Forecasting/blob/master/QualityOne.PNG)
+![alt text](https://github.com/LalithaPalleti/Starbucks-Security-Analysis-and-Forecasting/blob/master/QualityTwo.PNG)
 
 2.Property Crimes
 
-![alt text](https://github.com/LalithaPalleti/Crime-Investigation/blob/master/Property1.PNG)
-![alt text](https://github.com/LalithaPalleti/Crime-Investigation/blob/master/Property3.PNG)
-![alt text](https://github.com/LalithaPalleti/Crime-Investigation/blob/master/Property2.PNG)
+![alt text](https://github.com/LalithaPalleti/Starbucks-Security-Analysis-and-Forecasting/blob/master/PropertyOne.PNG)
+![alt text](https://github.com/LalithaPalleti/Starbucks-Security-Analysis-and-Forecasting/blob/master/PropertyTwo.PNG)
+
 
 3.Violent Crimes
 
-![alt text](https://github.com/LalithaPalleti/Crime-Investigation/blob/master/Violent1.PNG)
-![alt text](https://github.com/LalithaPalleti/Crime-Investigation/blob/master/Violent3.PNG)
-![alt text](https://github.com/LalithaPalleti/Crime-Investigation/blob/master/Violent2.PNG)
+![alt text](https://github.com/LalithaPalleti/Starbucks-Security-Analysis-and-Forecasting/blob/master/ViolentOne.PNG)
+![alt text](https://github.com/LalithaPalleti/Starbucks-Security-Analysis-and-Forecasting/blob/master/ViolentTwo.PNG)
+
